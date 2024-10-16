@@ -31,5 +31,5 @@ Hello! I'm Sugam, a dedicated student currently in Class 12. I'm passionate abou
 - Designing
 
 ## Contact
-- Email: [sugmaghimire@gmail.com](mailto:your-email@example.com)
+- Email: [sugmaghimire@gmail.com](mailto:sugmaghimire@gmail.com)
 - Instagram: [Sugam_Ghimire1](https://instagram.com/sugam_Ghimire1)
