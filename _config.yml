@@ -2,3 +2,18 @@ title: Sugam Ghimire
 logo: /Red White Neon Circle Instagram Profile Picture.png
 description : Contact Me to hire
 theme: jekyll-theme-minimal
+
+# Animation settings
+animations:
+  enabled: true
+  type: fade-in
+  duration: 0.5s
+  delay: 0.2s
+
+# Additional settings
+footer: "© 2024 Sugam Ghimire. All rights reserved."
+social_links:
+  - platform: Instagram
+    url: https://instagram.com/sugam_ghimire1
+  - platform: LinkedIn
+    url: https://linkedin.com/in/yourprofile
