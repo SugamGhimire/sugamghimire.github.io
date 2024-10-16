@@ -15,7 +15,7 @@ Hello! I'm Sugam, a dedicated student currently in Class 12. I'm passionate abou
 
 ## Work Experience
 - Currently seeking opportunities.
-- Previous internships or job roles (if any).
+- Previous internships or job roles.
 
 ## Projects
 - 
