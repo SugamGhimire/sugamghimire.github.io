@@ -1,6 +1,4 @@
-# Sugam Ghimire
 
-![Logo](Red White Neon Circle Instagram Profile Picture.png)
 
 **Contact Me to hire**
 
