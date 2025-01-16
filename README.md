@@ -1,6 +1,6 @@
 
 ## About Me
-Hello! I'm Sugam, a dedicated student currently in Class 12. I'm passionate about learning and eager to expand my knowledge and skills in various fields. With a strong interest in  technology, business, etc. I am actively seeking opportunities to apply what I've learned in real-world scenarios. I'm excited to connect with like-minded individuals and explore new avenues for growth and collaboration. Let's work together to create something amazing!
+Hello! I'm Sugam Ghimire, a dedicated student currently in Class 12. I'm passionate about learning and eager to expand my knowledge and skills in various fields. With a strong interest in  technology, business, etc. I am actively seeking opportunities to apply what I've learned in real-world scenarios. I'm excited to connect with like-minded individuals and explore new avenues for growth and collaboration. Let's work together to create something amazing!
 
 ## Education
  Management, High School
