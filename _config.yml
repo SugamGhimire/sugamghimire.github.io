@@ -1,19 +1,46 @@
 title: Sugam Ghimire
-logo: /Red White Neon Circle Instagram Profile Picture.png
-description : Contact Me to hire
-theme: jekyll-theme-cayman
+email: sugmaghimire@gmail.com
+description: >- 
+  Student | Tech Enthusiast | Future Leader
+baseurl: "" # leave empty for root
+url: "https://sugamghimire.com.np"
+twitter_username: sugamghimire
+github_username:  sugamghimire
 
-# Animation settings
-animations:
-  enabled: true
-  type: fade-in
-  duration: 0.5s
-  delay: 0.2s
+theme: minimal-mistakes-jekyll
 
-# Additional settings
-footer: "© 2024 Sugam Ghimire. All rights reserved."
-social_links:
-  - platform: Instagram
-    url: https://instagram.com/sugam_ghimire1
-  - platform: LinkedIn
-    url: https://linkedin.com/in/yourprofile
+minimal_mistakes_skin: "air"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+author:
+  name: "Sugam Ghimire"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Management Student | Interested in Tech, Business, and Creative Media"
+  location: "Nepal"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:sugmaghimire@gmail.com"
+    - label: "Instagram"
+      icon: "fab fa-instagram"
+      url: "https://instagram.com/sugam_ghimire1"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/sugamghimire"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/yourprofile"
+
+footer:
+  links:
+    - label: "GitHub"
+      url: "https://github.com/sugamghimire"
+    - label: "LinkedIn"
+      url: "https://linkedin.com/in/yourprofile"
+
+collections:
+  portfolio:
+    output: true
