@@ -1,29 +1,67 @@
+# Sugam Ghimire
 
-## About Me
-Hello! I'm Sugam Ghimire, a dedicated student currently in Class 12. I'm passionate about learning and eager to expand my knowledge and skills in various fields. With a strong interest in  technology, business, etc. I am actively seeking opportunities to apply what I've learned in real-world scenarios. I'm excited to connect with like-minded individuals and explore new avenues for growth and collaboration. Let's work together to create something amazing!
+Welcome to my personal website and portfolio!  
+I'm a passionate learner and aspiring technologist, currently a Class 12 student dedicated to self-growth and creative exploration.
 
-## Education
- Management, High School
+---
 
-## Skills
-- programming languages, video editing, Fluent English.
+## 👋 About Me
 
-## Work Experience
-- Currently seeking opportunities.
+Hi! I'm **Sugam Ghimire**. I love diving into new technologies, experimenting with creative media, and building useful projects. Whether it's programming, designing, or editing media content, I enjoy turning ideas into reality.
 
-## Projects
-- 
+---
 
-## Certifications
-- 
+## 🎓 Education
 
-## Hobbies
-- Reading novels.
-- Learning
-- Video Editing
-- Audio Mixing
-- Designing
+- **High School (Management Stream)**  
+  Currently studying in Class 12.
 
-## Contact
-- Email: [sugmaghimire@gmail.com](mailto:sugmaghimire@gmail.com)
-- Instagram: [Sugam_Ghimire1](https://instagram.com/sugam_Ghimire1)
+---
+
+## 💡 Skills
+
+- Programming Languages (beginner)
+- Video Editing (Adobe Premiere, CapCut, etc.)
+- Audio Mixing & Editing
+- Graphic Design (Canva, Photoshop basics)
+- Fluent English Communication
+
+---
+
+## 🏆 Certifications
+
+*Coming soon!*
+
+---
+
+## 💻 Projects
+
+*Stay tuned for updates as I showcase my projects here!*
+
+---
+
+## 🧑‍💼 Work Experience
+
+- Currently seeking opportunities to gain real-world experience.
+
+---
+
+## 📚 Hobbies & Interests
+
+- Reading novels & non-fiction
+- Video editing & content creation
+- Audio mixing
+- Graphic designing
+- Exploring new tech
+- Continuous learning
+
+---
+
+## 📫 Contact
+
+- **Email:** [sugmaghimire@gmail.com](mailto:sugmaghimire@gmail.com)
+- **Instagram:** [Sugam_Ghimire1](https://instagram.com/sugam_Ghimire1)
+
+---
+
+_Thank you for visiting my profile! Connect with me to collaborate or just to say hi!_
