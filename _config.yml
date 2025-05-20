@@ -1,11 +1,12 @@
 title: Sugam Ghimire
 email: sugmaghimire@gmail.com
-description: >- 
-  Student | Tech Enthusiast | Future Leader
+description: >-
+  Management Student | Tech Enthusiast | Aspiring Leader  
+  Welcome to my professional portfolio. Here, I share my journey in technology, business, and creative media—showcasing my projects, insights, and passions.
 baseurl: "" # leave empty for root
 url: "https://sugamghimire.com.np"
 twitter_username: sugamghimire
-github_username:  sugamghimire
+github_username: sugamghimire
 
 theme: minimal-mistakes-jekyll
 
@@ -14,33 +15,96 @@ minimal_mistakes_skin: "air"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 author:
   name: "Sugam Ghimire"
   avatar: "/assets/images/profile.jpg"
-  bio: "Management Student | Interested in Tech, Business, and Creative Media"
+  bio: |-
+    👋 Hi, I'm Sugam—a management student passionate about the intersection of technology, business, and creative media.  
+    I believe in leveraging innovation for impactful change and continuous learning.  
+    Let's connect and create something meaningful!
   location: "Nepal"
   links:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:sugmaghimire@gmail.com"
-    - label: "Instagram"
-      icon: "fab fa-instagram"
-      url: "https://instagram.com/sugam_ghimire1"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/sugamghimire"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/sugamghimire"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/yourprofile"
+    - label: "Instagram"
+      icon: "fab fa-instagram"
+      url: "https://instagram.com/sugam_ghimire1"
+    - label: "Twitter"
+      icon: "fab fa-twitter"
+      url: "https://twitter.com/sugamghimire"
+    - label: "Portfolio"
+      icon: "fas fa-briefcase"
+      url: "/portfolio/"
 
 footer:
   links:
     - label: "GitHub"
       url: "https://github.com/sugamghimire"
     - label: "LinkedIn"
-      url: "https://linkedin.com/in/yourprofile"
+      url: "https://linkedin.com/in/sugamghimire"
+    - label: "Twitter"
+      url: "https://twitter.com/sugamghimire"
+    - label: "Portfolio"
+      url: "/portfolio/"
+    - label: "Email"
+      url: "mailto:sugmaghimire@gmail.com"
 
 collections:
   portfolio:
     output: true
+
+# SEO and social sharing enhancements:
+seo:
+  type: "Person"
+  name: "Sugam Ghimire"
+  description: "Professional portfolio of Sugam Ghimire, a student passionate about tech, business, and media."
+  image: "/assets/images/profile.jpg"
+  same_as:
+    - "https://github.com/sugamghimire"
+    - "https://linkedin.com/in/sugamghimire"
+    - "https://instagram.com/sugam_ghimire1"
+    - "https://twitter.com/sugamghimire"
+
+# Google Analytics or other analytics platforms can be added here for professionalism
+# google_analytics: UA-XXXXXXXXX-X
+
+# Navigation menu (optional, for a more professional look)
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Portfolio"
+    url: "/portfolio/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "About"
+    url: "/about/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Advanced configuration for better professionalism (optional and editable as per your needs)
+defaults:
+  - scope:
+      path: ""
+      type: "portfolio"
+    values:
+      layout: "portfolio"
+      author_profile: true
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
+      author_profile: true
+
+# Social sharing image (recommended size: 1200x630px)
+social:
+  image: "/assets/images/profile.jpg"
